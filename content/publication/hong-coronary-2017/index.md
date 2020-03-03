@@ -9,5 +9,9 @@ featured: false
 publication: "*2017 IEEE 14th International Symposium on Biomedical Imaging (ISBI 2017)*"
 tags: ["Coronary artery", "Deep learning", "Image segmentation", "adaptive boost regressor", "Arteries", "biomedical ultrasonics", "blood vessels", "brief convolutional network", "cardiology", "CCTA-intravascular ultrasound image", "Classification", "Computer architecture", "convolutional neural network", "Convolutional neural network", "coronary artery segmentation", "coronary luminal", "coronary wall mask prediction", "extremely randomized tree regressor", "Feature extraction", "image segmentation", "image view", "learning (artificial intelligence)", "medical image processing", "neural nets", "Neural networks", "Plaque quantification", "probability", "regression analysis", "Training", "Ultrasonic imaging"]
 doi: "10.1109/ISBI.2017.7950696"
+image:
+  caption: "The overall process for the target mask training using the proposed BCN architecture."
+  focal_point: "center"
+  preview_only: false
 ---
 
