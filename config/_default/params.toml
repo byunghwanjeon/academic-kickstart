@@ -97,7 +97,7 @@ directions = "Enter 1st Engineering Bld. and take the stairs to Office 414-1 on 
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = ["Tuesday 11:00 to 13:00", "Wednesday 12:00 to 17:00", "Thursday 13:00 to 17:00", "Friday 13:00 to 14:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -140,7 +140,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true}
+main_menu = {align = "l", show_logo = false}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
