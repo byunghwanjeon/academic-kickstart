@@ -1,9 +1,9 @@
 ---
-title: "NOVEL THREE-DIMENSIONAL GEOMETRIC METHOD USING COMPUTED TOMOGRAPHY FOR PREDICTING THE INCOMPLETE OCCLUSION OF LEFT ATRIAL APPENDAGE CLOSURE textbar JACC: Journal of the American College of Cardiology"
+title: "Novel three-dimensional geometric method using computed tomography for predicting the incomplete occlusion of left atrial appendage closure"
 date: -01-01
-publishDate: 2020-03-03T09:20:38.751696Z
+publishDate: 2020-03-03T09:37:55.474170Z
 authors: ["Hyung-Bok Park", "Byunghwan Jeon", "Yoonmi Hong", "Hyuk-Jae Chang"]
-publication_types: ["0"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: ""

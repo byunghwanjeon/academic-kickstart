@@ -1,9 +1,9 @@
 ---
 title: "Abstract 19704: Incomplete Left Atrial Appendage Closure Prediction Using Novel Three-Dimensional Computed Tomography Geometric Analysis textbar Circulation"
 date: -01-01
-publishDate: 2020-03-03T09:20:38.746709Z
+publishDate: 2020-03-03T09:37:55.470181Z
 authors: ["Hyung-Bok Park", "Byunghwan Jeon", "Sanghoon Shin", "Yoonmi Hong", "Hyuk-Jae Chang"]
-publication_types: ["0"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: ""

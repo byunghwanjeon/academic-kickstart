@@ -1,9 +1,9 @@
 ---
 title: "Image-Based Flow Simulations of Pre- and Post-left Atrial Appendage Closure in the Left Atrium textbar SpringerLink"
 date: -01-01
-publishDate: 2020-03-03T09:20:38.730751Z
+publishDate: 2020-03-03T09:37:55.456219Z
 authors: ["Dongjie Jia", "Byunghwan Jeon", "Hyung-Bok Park", "Hyuk-Jae Chang", "Lucy Zhang"]
-publication_types: ["0"]
+publication_types: ["2"]
 abstract: ""
 featured: false
 publication: ""
