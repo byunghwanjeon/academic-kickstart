@@ -13,7 +13,7 @@ doi: "10.1016/j.patcog.2019.07.003"
 
 image: "PR_2019_image.jpg"
   placement: 1
-  caption: "The process for coronary artery identification. (a) The original image I. (b) The vesselness map V found by applying the method in [13] to I. (c) Connected component analysis (CCA) is applied to V, grouping and labeling all the vessel-like objects in the volume as candidates for the main coronary artery. (d) The average color map of the posterior probability (Eq. (1)) on the vessel-like candidates for the selection of one target segment. (e) The highest posterior probability on the right coronary artery (RCA) segment. (f) The highest posterior probability on the left coronary artery (LCA) segment."
+  caption: "The process for coronary artery identification."
   focal_point: "Center"
   preview_only: false
 ---
