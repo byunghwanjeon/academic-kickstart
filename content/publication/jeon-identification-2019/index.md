@@ -10,7 +10,6 @@ publication: "*Pattern Recognition*"
 tags: ["Bayesian", "Computed tomography angiography", "Coronary artery", "Curvature and torsion", "Curve analysis", "Localization", "Multiple target"]
 url_pdf: "http://www.sciencedirect.com/science/article/pii/S0031320319302559"
 doi: "10.1016/j.patcog.2019.07.003"
-
 image: "PR_2019_image.jpg"
   placement: 1
   caption: "The process for coronary artery identification."
