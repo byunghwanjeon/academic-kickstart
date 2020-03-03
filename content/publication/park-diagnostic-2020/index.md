@@ -9,5 +9,9 @@ featured: false
 publication: "*Yonsei Medical Journal*"
 url_pdf: "https://doi.org/10.3349/ymj.2020.61.2.137"
 doi: "10.3349/ymj.2020.61.2.137"
+image:
+  caption: "Workflow of the automated segmentation algorithm and the novel parallel computing method."
+  focal_point: "center"
+  preview_only: false
 ---
 
