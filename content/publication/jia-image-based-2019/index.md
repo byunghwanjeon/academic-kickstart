@@ -9,5 +9,9 @@ featured: false
 publication: "*Cardiovascular Engineering and Technology*"
 url_pdf: "https://doi.org/10.1007/s13239-019-00412-7"
 doi: "10.1007/s13239-019-00412-7"
+image:
+  caption: "Comparison of blood flow velocity patterns between left atrium with LAA (top) and without LAA (bottom)."
+  focal_point: "center"
+  preview_only: false
 ---
 
