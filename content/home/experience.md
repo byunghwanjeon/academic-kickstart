@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   location = "South Korea"
   date_start = "2020-03-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = """Research on reinforement learning"""
+#  Responsibilities include:
   
   * Analysing
   * Modelling
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Researcher"
   company = "Medical Image Computing & Analysis Lab., CONNECT-AI Research Center, Yonsei University"
-  company_url = ""
+  company_url = "http://icirc.yonsei.ac.kr/index.htm"
   location = "South Korea"
   date_start = "2019-09-01"
   date_end = "2020-02-29"
