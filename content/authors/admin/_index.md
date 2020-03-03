@@ -15,7 +15,7 @@ role: Assistant Professor of  Department of Computer Science (AI-software major)
 # Organizations/Affiliations
 organizations:
 - name: Kyungil University
-  url: "ai-soft.kiu.ac.kr"
+  url: "https://ai-soft.kiu.ac.kr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in solving problems of classification, segmentation and localization in 2D/3D medical images based on computer vision and neural network methods.
@@ -42,21 +42,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: '#contact'  # For a direct email link, use "mailto:bhjeon@kiu.kr".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?hl=ko&user=pCx5gQcAAAAJ&view_op=list_works&sortby=pubdate
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/CV_bhjeon.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "bhjeon@kiu.kr"
