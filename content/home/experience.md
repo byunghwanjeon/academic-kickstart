@@ -27,10 +27,10 @@ date_format = "Jan 2006"
   description = """Research on reinforement learning"""
 #  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+#  * Analysing
+#  * Modelling
+#  * Deploying
+#  """
 
 [[experience]]
   title = "Researcher"
