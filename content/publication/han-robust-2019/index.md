@@ -9,5 +9,9 @@ featured: false
 publication: "*Journal of Broadcast Engineering*"
 url_pdf: "http://www.koreascience.or.kr/article/JAKO201923965853955.page"
 doi: "10.5909/JBE.2019.24.4.592"
+image:
+  caption: "Vessel segmentation results in 2D X-ray angiography."
+  focal_point: "center"
+  preview_only: false
 ---
-
+(a) input image, (b) the broken coronary arteries are found in the results by using only a single model M512 × 512, (c) the broken coronary arteries are re-connected by the proposed correction method, (d) the ground truths manually annotated by the experts
