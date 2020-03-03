@@ -8,5 +8,9 @@ abstract: "Vessel-like structures can be represented by higher order curves. Suc
 featured: false
 publication: "*대한전자공학회 학술대회*"
 url_pdf: "http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07515813"
+image:
+  caption: "2D X-ray영상 및 3D차원 CT영상에 적용된 제안된 기법 흐름."
+  focal_point: "center"
+  preview_only: false
 ---
-
+(a)관상동맥이 존재하는 2D 및 3D 원본영상, (b) 서로 다른 기법 (U-net, Frangi vesselness)에 의해 얻어진 혈관확률맵, (c) 혈관확률맵 기반 혈관 후보 조각, (d) 후보 조각간 연관성 분석 및 병합
