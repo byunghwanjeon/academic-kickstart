@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "test"
-  image: ""
+  caption: "Workflow of the automated segmentation algorithm and the novel parallel computing method."
+  image: "ymj-61-137-g001-l.jpg"
 ---
