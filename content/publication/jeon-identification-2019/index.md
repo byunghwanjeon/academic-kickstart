@@ -11,7 +11,7 @@ tags: ["Bayesian", "Computed tomography angiography", "Coronary artery", "Curvat
 url_pdf: "http://www.sciencedirect.com/science/article/pii/S0031320319302559"
 doi: "10.1016/j.patcog.2019.07.003"
 ---
-image: "PR_2019_image.jpg"
+[image]
   placement: 1
   caption: "The process for coronary artery identification."
   focal_point: "Center"
