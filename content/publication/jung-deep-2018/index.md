@@ -9,5 +9,9 @@ featured: false
 publication: "*Simulation and Synthesis in Medical Imaging*"
 tags: ["Coronary artery", "Computed tomography", "Deep learning", "Motion artifact compensation", "Style-transfer"]
 doi: "10.1007/978-3-030-00536-8_11"
+image:
+  caption: "Workflow of the proposed method."
+  focal_point: "center"
+  preview_only: false
 ---
-
+In step 1, generate synthetic motion compensated patch (SynGT) using style-transfer method. In step 2, training the motion artifact compensation network (MAC Net) using SynGT. The detailed descriptions of step 1 and step 2 are found in Sec. 2.2 and Sec. 2.3, respectively.
