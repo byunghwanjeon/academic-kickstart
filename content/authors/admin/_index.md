@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of  Department of Computer Science (AI-software major)
+role: Assistant Professor of Department of Computer Science (AI-software major)
 
 # Organizations/Affiliations
 organizations:
@@ -66,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an assistant professor in the Department of Computer Science (AI-software major) at Kyungil University. I received the B.S. degree in computer science engineering from Hankuk University of Foreign Studies, Gyeonggi-do, Korea, in 2013 and the Ph.D. degree in medical science from Yonsei University, Seoul, Korea, in 2019. From 2012 to 2019, I was a researcher, and since 2019, he has been a Postdoctoral Researcher with the Medical Image Computing & Analysis Lab. in CONNECT-AI Research Center, Seoul, Korea.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests include application of computer vision techniques, such as, Bayesian estimation, geometric analysis, deep neural network to localization, tracking and segmentation tasks in medical images. 
