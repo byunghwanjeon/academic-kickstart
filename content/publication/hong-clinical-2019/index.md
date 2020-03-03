@@ -9,5 +9,9 @@ featured: false
 publication: "*European Radiology*"
 url_pdf: "https://doi.org/10.1007/s00330-018-5752-0"
 doi: "10.1007/s00330-018-5752-0"
+image:
+  caption: "Representative case example of selective computed tomography angiography (S-CTA) and conventional computed tomography angiography (C-CTA) images obtained from the same patient."
+  focal_point: "center"
+  preview_only: false
 ---
 
