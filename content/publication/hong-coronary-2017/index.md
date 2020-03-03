@@ -1,7 +1,7 @@
 ---
 title: "Coronary luminal and wall mask prediction using convolutional neural network"
 date: 2017-04-01
-publishDate: 2020-03-03T09:37:55.484144Z
+publishDate: 2020-03-03T09:58:07.972898Z
 authors: ["Y. Hong", "Y-M. Hong", "Y. Jang", "S. Kim", "B. Jeon", "S. Jung", "S. Ha", "D. Han", "H. Shim", "H. J. Chang"]
 publication_types: ["1"]
 abstract: "A significant amount of research has been done on the segmentation of coronary arteries. However, the resulting automated boundary delineation is still not suitable for clinical utilization. The convolutional neural network was driving advances in the medical image processing. We propose the brief convolutional network (BCN) that automatically produces the labeled mask with the luminal and wall boundaries of the coronary artery. We utilized 50 patients of CCTA - intravascular ultrasound matched image data sets. Training and testing were performed on 40 and 10 patient data sets, respectively. The prediction of luminal and wall mask was performed using stacked BCN on the each image view: axial, coronal, and sagittal of straightened curved planar reformation. We defined the vector that includes probability from BCN result on each image view and proposed amplified probability. We used an Adaptive Boost regressor with an extremely randomized tree regressor to determine the label for unknown probability vector."
