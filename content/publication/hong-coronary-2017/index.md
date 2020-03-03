@@ -14,4 +14,4 @@ image:
   focal_point: "center"
   preview_only: false
 ---
-
+The BCN architecture was stacked to be utilized as a convolutional auto-encoder and image and mask pair-wise training method.
